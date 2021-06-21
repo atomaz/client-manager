@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "rootDir": "./src",
+    "outDir": "./dist/",
+    "declaration": true,
+    "declarationMap": true,
+    "inlineSourceMap": true,
+
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+
+    "moduleResolution": "node",
+    "types": ["node"]
+
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
