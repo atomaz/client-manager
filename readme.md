@@ -10,12 +10,12 @@ Serviço de criação de clientes com endereços com o objetivo de aprender Type
  -
 
 ## Próximos passos
- - Realizar conexão com o banco de dados
- - Realizar persistências e conexões com o banco de dados de cliente e endereços
- - Logs
- - Secure endpoints with token JWT
- - Docker
- - Monitoring
+- Realizar conexão com o banco de dados
+- Realizar persistências e conexões com o banco de dados de cliente e endereços
+- Implementação de Logs
+- Segurança dos endpoints com Tokens JWT
+- Criação do serviço com Docker e publicando no repositório Docker
+- Estudarmos algumas soluções para monitoramento.
 
 ## Run
 ```sh
